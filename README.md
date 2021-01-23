@@ -1,6 +1,6 @@
 ## An API for Neural Style Transfer
 
-Api Website Link: https://image-stylizer.herokuapp.com/
+API Website Link: https://image-stylizer.herokuapp.com/
 
 If you want to read more about Neural Style Transfer and Image Stylzer you can refer to the document prepared by @Dara Sravan Kumar and @Verra Dinesh.
 
